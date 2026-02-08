@@ -31,4 +31,5 @@ The MVP demonstrates limited features with mock or sample data,
 while the architecture supports future scaling.
 
 ## Team
-- Dhanunjay Das (Solo Participant)
+- Dhanunjay Das 
+- Adutiya Agarwal
